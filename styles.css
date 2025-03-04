@@ -108,7 +108,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 50px; /* Set a specific height */
+    height: 20px; /* Set a specific height */
     display: flex;
     justify-content: center;
     align-items: center;
