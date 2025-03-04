@@ -105,7 +105,10 @@ footer {
     font-size: 14px;
     color: #4e374a;
     border-top: 3px solid #f4b6d6;
-    margin-bottom: -10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px; /* Set a specific height */
 }
 
 h2 {
