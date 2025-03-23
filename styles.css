@@ -109,7 +109,6 @@ body {
 
     .website-links {
         top: 30%;
-        left: auto;
         transform: none; /* Remove desktop centering */
         display: flex;
         flex-direction: column; /* Stack buttons vertically */
