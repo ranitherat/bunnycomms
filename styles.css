@@ -115,8 +115,6 @@ body {
         align-items: center; /* Center them */
         justify-content: center;
         width: 100%; /* Ensure full width for proper centering */
-        margin-top: 20px; /* Add spacing from logo */
-	margin-left: 3px;
     }
 
     .website-button {
